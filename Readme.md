@@ -14,7 +14,7 @@ I'm **Santhoshi**, a **Computer Science and Engineering undergraduate** passiona
 - 🎓 Computer Science & Engineering Student
 - 📊 Passionate about **Data Analytics** and **Business Intelligence**
 - 💻 Interested in **Software Development**
-- 🌱 Currently learning **Java** and **React.js**
+- 🌱 Currently learning **Java** 
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 🚀 Always eager to learn, build, and explore new technologies.
 - 🎨 Outside coding, I enjoy reading novels, painting, sketching, listening to music, and exploring nature.
@@ -31,7 +31,6 @@ I'm **Santhoshi**, a **Computer Science and Engineering undergraduate** passiona
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -113,7 +112,7 @@ I'm **Santhoshi**, a **Computer Science and Engineering undergraduate** passiona
 
 # 💡 Quote
 
-> **"Every dataset has a story—my goal is to tell it through analytics."** 📊
+> **"Every dataset has a story — my goal is to tell it through analytics."** 📊
 
 ---
 

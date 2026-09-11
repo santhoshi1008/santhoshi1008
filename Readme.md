@@ -14,7 +14,7 @@ I'm **Santhoshi**, a **Computer Science and Engineering undergraduate** passiona
 - 🎓 Computer Science & Engineering Student
 - 📊 Passionate about **Data Analytics** and **Business Intelligence**
 - 💻 Interested in **Software Development**
-- 🌱 Currently learning **Java** 
+- 🌱 Currently learning **Data Analytics** 
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 🚀 Always eager to learn, build, and explore new technologies.
 - 🎨 Outside coding, I enjoy reading novels, painting, sketching, listening to music, and exploring nature.
